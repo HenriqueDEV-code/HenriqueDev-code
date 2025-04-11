@@ -13,8 +13,7 @@
 <div>
    <img src="https://avatars.githubusercontent.com/u/176351187?v=4" width="150px" align="right" borderRadius="100px" />  
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />   
-   <img  src="https://img.shields.io/badge/.NET FRAMEWORK-5C2D91?style=for-the-badge&logo=.net Framework&logoColor=white" />
-    <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
    <img  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
