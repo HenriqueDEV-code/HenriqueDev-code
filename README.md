@@ -5,7 +5,7 @@
 
 ##
 📌 Iniciando como desenvolvedor backend e frontend iniciante <br>
-📌Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas - (ADS) na UNIP. <br>
+📌Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas - (ADS) na UNIP. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal! <br>
 
 #####  Estudando atualmente:
