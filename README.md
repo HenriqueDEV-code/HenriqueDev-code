@@ -15,9 +15,11 @@
     <a href= "https://pt.wikipedia.org/wiki/C_Sharp"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> </a>   
     <a href= "https://en.cppreference.com/w/cpp.html"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
    <a href= "https://en.cppreference.com/w/cpp.html"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+   <a href= "https://netbeans.apache.org/front/main/index.html"><img  src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" /></a>
+   <a href= "https://cursor.com/"><img  src="https://img.shields.io/badge/Cursor-000000.svg?&style=for-the-badge&logo=Cursor&logoColor=white" /></a>
    <a href= "https://www.mysql.com/"><img  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
    <a href= "https://www.postgresql.org/"><img  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-   <a href= "https://learn.microsoft.com/pt-br/ssms/install/install"><img  src="https://img.shields.io/badge/MSSQL-316192?style=for-the-badge&logo=mssql&logoColor=white" /></a>      
+   <a href= "https://learn.microsoft.com/pt-br/ssms/install/install"><img  src="https://img.shields.io/badge/MSSQL-316192?style=for-the-badge&logo=mssql&logoColor=white" /></a>
 </div>
 
 ##### IDE:
