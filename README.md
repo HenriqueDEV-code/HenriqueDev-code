@@ -53,6 +53,7 @@
 <h2 align="center">📈 Estatísticas</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueDEV-code&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDEV-code&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 ---
@@ -73,3 +74,5 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 </p>
+
+
