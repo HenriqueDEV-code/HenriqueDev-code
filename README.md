@@ -10,69 +10,365 @@
 
 <!-- Avatar e apresentação -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/176351187?v=4" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/176351187?v=4" width="150" style="border-radius: 50%; border: 3px solid #00FFFF; box-shadow: 0 0 20px rgba(0,255,255,0.5);" />
 </p>
 
-<h2 align="center">🚀 Sobre mim</h2>
-
+<!-- Status Badges -->
 <p align="center">
-  <b>Desenvolvedor Backend & Frontend (iniciante)</b><br>
-  🎓 4º semestre de ADS - UNIP<br>
-  💡 Sempre aprendendo e evoluindo!
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen?style=flat-square&logo=statuspal&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Disponibilidade-Aberto%20a%20Oportunidades-blue?style=flat-square" alt="Disponibilidade"/>
+  <img src="https://img.shields.io/badge/Nível-Iniciante%20%7C%20Aprendendo-yellow?style=flat-square" alt="Nível"/>
 </p>
+
+<br>
 
 ---
 
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+<br>
 
-<p align="center">
-  <a href="https://pt.wikipedia.org/wiki/C_Sharp"><img src="https://img.shields.io/badge/C%23-8E55D5?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-  <a href="https://en.cppreference.com/w/cpp.html"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <a href="https://en.cppreference.com/w/cpp.html"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/pt-br/ssms/install/install"><img src="https://img.shields.io/badge/MSSQL-3B2E58?style=for-the-badge&logo=mssql&logoColor=white"/></a>
-</p>
+## 📋 Índice
 
-<h3 align="center">💻 IDEs</h3>
-<p align="center">
-  <a href="https://visualstudio.microsoft.com/pt-br/vs/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
-  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-  <a href="https://netbeans.apache.org/front/main/index.html"><img src="https://img.shields.io/badge/apache%20netbeans-ADD439?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/></a>
-  <a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000.svg?&style=for-the-badge&logo=Cursor&logoColor=white"/></a>
-</p>
+- [Sobre Mim](#-sobre-mim)
+- [Formação Acadêmica](#-formação-acadêmica)
+- [Habilidades Técnicas](#-habilidades-técnicas)
+- [Ferramentas & Ambientes de Desenvolvimento](#-ferramentas--ambientes-de-desenvolvimento)
+- [Estatísticas do GitHub](#-estatísticas-do-github)
+- [Contato & Redes Sociais](#-contato--redes-sociais)
 
-<h3 align="center">🔗 Versionamento & Terminal</h3>
-<p align="center">
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://github.com/HenriqueDEV-code/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<br>
 
 ---
 
-<h2 align="center">📈 Estatísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueDEV-code&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDEV-code&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+<br>
+
+## 🚀 Sobre Mim
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 👨‍💻 Perfil Profissional
+
+Sou um **Desenvolvedor Full Stack em formação**, atualmente cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas** na UNIP. Minha paixão pela tecnologia me motiva a buscar constantemente novos conhecimentos e aprimorar minhas habilidades técnicas.
+
+**Características:**
+- 🔍 Foco em aprender e aplicar melhores práticas de desenvolvimento
+- 🎯 Dedicação ao estudo de tecnologias modernas
+- 🤝 Busco colaborar em projetos que agreguem valor e experiência
+- 💼 Interesse em oportunidades de estágio e desenvolvimento profissional
+
+### 🎯 Objetivos
+
+- Expandir conhecimentos em desenvolvimento backend e frontend
+- Desenvolver projetos práticos que demonstrem habilidades técnicas
+- Contribuir para a comunidade de desenvolvedores
+- Estabelecer uma base sólida para carreira em tecnologia
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-<h2 align="center">📬 Contato</h2>
+<br>
+
+## 🎓 Formação Acadêmica
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 📚 Educação
+
+| Instituição | Curso | Período | Status |
+|------------|-------|---------|--------|
+| **UNIP** | Análise e Desenvolvimento de Sistemas | 4º Semestre | 🟢 Em andamento |
+
+### 📖 Conhecimentos Adquiridos
+
+- Fundamentos de programação e lógica computacional
+- Estruturas de dados e algoritmos
+- Desenvolvimento orientado a objetos
+- Banco de dados e modelagem de dados
+- Engenharia de software e metodologias ágeis
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## 🛠️ Habilidades Técnicas
+
+### 💻 Linguagens de Programação
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h4>Backend</h4>
+  <p>
+    <a href="https://pt.wikipedia.org/wiki/C_Sharp">
+      <img src="https://img.shields.io/badge/C%23-8E55D5?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Nível-Intermediário-blue?style=flat-square" alt="Nível C#"/>
+  </p>
+</td>
+<td align="center" width="33%">
+  <h4>System Programming</h4>
+  <p>
+    <a href="https://en.cppreference.com/w/cpp.html">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    </a>
+    <a href="https://en.cppreference.com/w/cpp.html">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Nível-Básico-yellow?style=flat-square" alt="Nível C/C++"/>
+  </p>
+</td>
+</tr>
+</table>
+
+### 🗄️ Bancos de Dados
+
+<table>
+<tr>
+<td align="center" width="100%">
+  <p>
+    <a href="https://www.mysql.com/">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    </a>
+    <a href="https://www.postgresql.org/">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/ssms/install/install">
+      <img src="https://img.shields.io/badge/MSSQL-3B2E58?style=for-the-badge&logo=mssql&logoColor=white" alt="MSSQL"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Conhecimento-Básico%20a%20Intermediário-blue?style=flat-square" alt="Nível BD"/>
+    <img src="https://img.shields.io/badge/Foco-SQL%20%7C%20Modelagem%20de%20Dados-lightgrey?style=flat-square" alt="Foco BD"/>
+  </p>
+</td>
+</tr>
+</table>
+
+### 🔧 Paradigmas & Conceitos
+
+<table>
+<tr>
+<td align="center" width="100%">
+  <p>
+    <img src="https://img.shields.io/badge/POO-Object--Oriented-orange?style=flat-square" alt="POO"/>
+    <img src="https://img.shields.io/badge/API-REST%20%7C%20SOAP-blue?style=flat-square" alt="API"/>
+    <img src="https://img.shields.io/badge/Arquitetura-MVC%20%7C%20Clean%20Architecture-green?style=flat-square" alt="Arquitetura"/>
+    <img src="https://img.shields.io/badge/Versionamento-Git%20%7C%20GitHub-purple?style=flat-square" alt="Versionamento"/>
+  </p>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## 💻 Ferramentas & Ambientes de Desenvolvimento
+
+### 🖥️ IDEs & Editores de Código
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <h4>Ambientes Principais</h4>
+  <p>
+    <a href="https://visualstudio.microsoft.com/pt-br/vs/">
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
+    </a>
+    <a href="https://code.visualstudio.com">
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+    </a>
+  </p>
+</td>
+<td align="center" width="50%">
+  <h4>Editores Alternativos</h4>
+  <p>
+    <a href="https://netbeans.apache.org/front/main/index.html">
+      <img src="https://img.shields.io/badge/apache%20netbeans-ADD439?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="NetBeans"/>
+    </a>
+    <a href="https://cursor.com/">
+      <img src="https://img.shields.io/badge/Cursor-000000.svg?&style=for-the-badge&logo=Cursor&logoColor=white" alt="Cursor"/>
+    </a>
+  </p>
+</td>
+</tr>
+</table>
+
+### 🔗 Controle de Versão & Colaboração
+
+<table>
+<tr>
+<td align="center" width="100%">
+  <p>
+    <a href="https://git-scm.com">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </a>
+    <a href="https://github.com/HenriqueDEV-code/">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Conhecimento-Git%20Bash%20%7C%20Git%20Flow-blue?style=flat-square" alt="Git Skills"/>
+    <img src="https://img.shields.io/badge/Práticas-Commit%20Semântico%20%7C%20Branching-green?style=flat-square" alt="Git Practices"/>
+  </p>
+</td>
+</tr>
+</table>
+
+### 🖱️ Sistema Operacional
+
 <p align="center">
-  <a href="mailto:henriquebelotti09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-nascimento-belotti-927278358/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5516997446618" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Ambiente-Desenvolvimento%20Windows-lightgrey?style=flat-square" alt="Ambiente"/>
 </p>
+
+<br>
+
+---
+
+<br>
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  
+  ### 📊 Visão Geral do Perfil
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=kayo-benjamin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" height="200" alt="Estatísticas do GitHub"/>
+  
+  ### 📈 Gráfico de Atividade
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayo-benjamin&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
+  
+  ### 💻 Linguagens Mais Utilizadas
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayo-benjamin&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff" height="200" alt="Linguagens mais usadas"/>
+  
+  ### 📌 Estreias do GitHub
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=kayo-benjamin&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="200" alt="Streak Stats"/>
+  
+</div>
+
+<br>
+
+<!-- Contador de Visitantes -->
+<div align="center">
+  <h3>👀 Visitantes do Perfil</h3>
+  <p>
+    <img src="https://profile-counter.glitch.me/kayo-benjamin/count.svg" alt="Contador de visitantes"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Total%20de%20Visitantes-Atualizado%20em%20Tempo%20Real-brightgreen?style=flat-square" alt="Visitantes"/>
+  </p>
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 📬 Contato & Redes Sociais
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h4>📧 E-mail</h4>
+  <p>
+    <a href="mailto:henriquebelotti09@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+  <p>
+    <code>henriquebelotti09@gmail.com</code>
+  </p>
+</td>
+<td align="center" width="33%">
+  <h4>💼 LinkedIn</h4>
+  <p>
+    <a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-nascimento-belotti-927278358/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Perfil-Profissional-blue?style=flat-square" alt="LinkedIn Profile"/>
+  </p>
+</td>
+<td align="center" width="33%">
+  <h4>💬 WhatsApp</h4>
+  <p>
+    <a href="https://wa.me/5516997446618" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Disponível-Contato%20Direto-green?style=flat-square" alt="WhatsApp Available"/>
+  </p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+  
+  ### 🤝 Conecte-se Comigo
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Aberto%20a%20Colaborações-brightgreen?style=for-the-badge" alt="Status"/>
+    <img src="https://img.shields.io/badge/Resposta-Rápida-blue?style=for-the-badge" alt="Response"/>
+  </p>
+  
+  <p>
+    <i>Estou sempre aberto a novas oportunidades, colaborações em projetos e networking na área de tecnologia!</i>
+  </p>
+  
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  
+  ### 📝 Nota Final
+  
+  <p>
+    <i>"A programação não é apenas escrever código, é resolver problemas e criar soluções que fazem a diferença."</i>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Última%20Atualização-2024-blue?style=flat-square" alt="Update"/>
+    <img src="https://img.shields.io/badge/Perfil-Ativo-brightgreen?style=flat-square" alt="Active"/>
+  </p>
+  
+</div>
+
+<br>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 </p>
-
-
