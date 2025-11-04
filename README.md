@@ -9,9 +9,9 @@
 </p>
 
 <!-- Avatar e apresentação -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/176351187?v=4" width="150" style="border-radius: 50%; border: 3px solid #00FFFF; box-shadow: 0 0 20px rgba(0,255,255,0.5);" />
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/176351187?v=4" width="150" height="150" style="border-radius: 50% !important; border: 3px solid #00FFFF; box-shadow: 0 0 20px rgba(0,255,255,0.5);" />
+</div>
 
 <!-- Status Badges -->
 <p align="center">
