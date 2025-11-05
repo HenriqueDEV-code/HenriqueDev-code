@@ -254,34 +254,22 @@ Sou um **Desenvolvedor Full Stack em formação**, atualmente cursando o 4º sem
   
   ### 📊 Visão Geral do Perfil
   
-  <img src="https://github-readme-stats.vercel.app/api?username=kayo-benjamin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" height="200" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueDEV-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" height="200" alt="Estatísticas do GitHub"/>
   
   ### 📈 Gráfico de Atividade
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayo-benjamin&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueDEV-code&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
   
   ### 💻 Linguagens Mais Utilizadas
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayo-benjamin&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff" height="200" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueDEV-code&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff" height="200" alt="Linguagens mais usadas"/>
   
   ### 📌 Estreias do GitHub
   
-  <img src="https://github-readme-streak-stats.demolab.com/?user=kayo-benjamin&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="200" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=HenriqueDEV-code&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="200" alt="Streak Stats"/>
   
 </div>
 
-<br>
-
-<!-- Contador de Visitantes -->
-<div align="center">
-  <h3>👀 Visitantes do Perfil</h3>
-  <p>
-    <img src="https://profile-counter.glitch.me/kayo-benjamin/count.svg" alt="Contador de visitantes"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Total%20de%20Visitantes-Atualizado%20em%20Tempo%20Real-brightgreen?style=flat-square" alt="Visitantes"/>
-  </p>
-</div>
 
 <br>
 
