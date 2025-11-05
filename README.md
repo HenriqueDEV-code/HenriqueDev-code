@@ -349,7 +349,7 @@ Sou um **Desenvolvedor Full Stack em formação**, atualmente cursando o 4º sem
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Última%20Atualização-2024-blue?style=flat-square" alt="Update"/>
+    <img src="https://img.shields.io/badge/Última%20Atualização-2025-blue?style=flat-square" alt="Update"/>
     <img src="https://img.shields.io/badge/Perfil-Ativo-brightgreen?style=flat-square" alt="Active"/>
   </p>
   
