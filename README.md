@@ -1,12 +1,14 @@
 <!-- Banner animado -->
-<p align="center">
+<p align="center" id="topo">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 </p>
 
-<!-- Título animado -->
+
+<!-- Título animado profissional -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;😀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3200&pause=700&color=3498DB&center=true&vCenter=true&width=820&height=65&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!+👨‍💻;Desenvolvedor+de+Software+com+experiência+em+sistemas+corporativos;Foco+em+Arquitetura%2C+Back-end%2C+APIs+e+Automação+de+Processos;Compromisso+com+boas+práticas%2C+segurança+e+alta+performance" alt="Título animado profissional do README" />
 </p>
+
 
 
 
@@ -31,6 +33,7 @@
 - [Ferramentas & Ambientes de Desenvolvimento](#-ferramentas--ambientes-de-desenvolvimento)
 - [Estatísticas do GitHub](#-estatísticas-do-github)
 - [Contato & Redes Sociais](#-contato--redes-sociais)
+- [Topo](#topo)
 
 <br>
 
