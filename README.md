@@ -8,10 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;😀"/>
 </p>
 
-<!-- Avatar e apresentação -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/176351187?v=4" width="150" height="150" style="border-radius: 50% !important; border: 3px solid #00FFFF; box-shadow: 0 0 20px rgba(0,255,255,0.5);" />
-</div>
+
 
 <!-- Status Badges -->
 <p align="center">
