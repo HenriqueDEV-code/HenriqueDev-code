@@ -29,7 +29,7 @@
 
 - [Sobre Mim](#-sobre-mim)
 - [Formação Acadêmica](#-formação-acadêmica)
-- [Habilidades Técnicas](#-habilidades-técnicas)
+- [Habilidades Técnicas](#habilidades-técnicas)
 - [Ferramentas & Ambientes de Desenvolvimento](#-ferramentas--ambientes-de-desenvolvimento)
 - [Estatísticas do GitHub](#-estatísticas-do-github)
 - [Contato & Redes Sociais](#-contato--redes-sociais)
