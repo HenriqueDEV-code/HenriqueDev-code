@@ -49,7 +49,7 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Sou um **Desenvolvedor Full Stack em formação**, atualmente cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas** na UNIP. Minha paixão pela tecnologia me motiva a buscar constantemente novos conhecimentos e aprimorar minhas habilidades técnicas.
+Sou um **Desenvolvedor em formação**, atualmente cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas** na UNIP. Minha paixão pela tecnologia me motiva a buscar constantemente novos conhecimentos e aprimorar minhas habilidades técnicas.
 
 **Características:**
 - 🔍 Foco em aprender e aplicar melhores práticas de desenvolvimento
@@ -349,7 +349,7 @@ Sou um **Desenvolvedor Full Stack em formação**, atualmente cursando o 4º sem
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Última%20Atualização-2025-blue?style=flat-square" alt="Update"/>
+    <img src="https://img.shields.io/badge/Última%20Atualização-2026-blue?style=flat-square" alt="Update"/>
     <img src="https://img.shields.io/badge/Perfil-Ativo-brightgreen?style=flat-square" alt="Active"/>
   </p>
   
