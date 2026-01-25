@@ -3,6 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 </p>
 
+<!-- Capa -->
+<p align="center">
+  <img
+    src="https://media.licdn.com/dms/image/v2/D4D16AQF5EcYVPf868Q/profile-displaybackgroundimage-shrink_350_1400/B4DZv1oXaZJMAY-/0/1769352559121?e=1770854400&v=beta&t=qw4kft0fOqGul_eA4XDituKMX4hRuxVFWETHkIGIM-8"
+    width="900"
+    style="border-radius: 14px; border: 1px solid rgba(0,0,0,0.10);"
+    alt="Capa - Less complexity. More solutions."
+  />
+</p>
+<br>
 
 <!-- Título animado profissional -->
 <p align="center">
@@ -49,20 +59,26 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Sou um **Desenvolvedor em formação**, atualmente cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas** na UNIP. Minha paixão pela tecnologia me motiva a buscar constantemente novos conhecimentos e aprimorar minhas habilidades técnicas.
+Profissional formado em Análise e Desenvolvimento de Sistemas, com base técnica sólida em desenvolvimento de software, programação orientada a objetos e bancos de dados, aliada à experiência consolidada em Suporte Técnico em ambientes corporativos.
+
+Atuação profissional voltada ao suporte de usuários finais, PDVs e sistemas administrativos, com experiência em hardware, sistemas operacionais e aplicações internas, sempre seguindo processos operacionais, boas práticas e padrões corporativos de atendimento.
+
+Paralelamente à atuação em suporte, desenvolve projetos próprios de software, nos quais aplica conceitos de lógica de programação, orientação a objetos, integração com bancos de dados, automação de rotinas, versionamento de código e documentação técnica, consolidando uma visão prática, estruturada e orientada à solução de problemas no desenvolvimento de sistemas.
+
+Busca iniciar atuação profissional como Desenvolvedor de Software ou Analista de Sistemas, integrando a base técnica em desenvolvimento com a vivência corporativa em suporte, forte capacidade analítica e compreensão de processos de negócio e operação.
 
 **Características:**
-- 🔍 Foco em aprender e aplicar melhores práticas de desenvolvimento
-- 🎯 Dedicação ao estudo de tecnologias modernas
-- 🤝 Busco colaborar em projetos que agreguem valor e experiência
-- 💼 Interesse em oportunidades de estágio e desenvolvimento profissional
+- 🔍 Atenção à qualidade, organização e boas práticas de desenvolvimento.
+- 🎯 Compromisso com evolução técnica contínua e soluções eficientes.
+- 🤝 Colaboração em projetos com foco em resultado e valor técnico.
+- 💼 Interesse em oportunidades profissionais nas áreas de desenvolvimento e sistemas.
 
 ### 🎯 Objetivos
 
-- Expandir conhecimentos em desenvolvimento backend e frontend
-- Desenvolver projetos práticos que demonstrem habilidades técnicas
-- Contribuir para a comunidade de desenvolvedores
-- Estabelecer uma base sólida para carreira em tecnologia
+- Atuar profissionalmente no desenvolvimento e sustentação de sistemas.
+- Aplicar conhecimentos em backend, integração de sistemas e bancos de dados.
+- Contribuir para projetos com foco em qualidade, organização e manutenibilidade.
+- Consolidar carreira na área de tecnologia, unindo desenvolvimento e visão operacional.
 
 </td>
 </tr>
@@ -84,7 +100,7 @@ Sou um **Desenvolvedor em formação**, atualmente cursando o 4º semestre de **
 
 | Instituição | Curso | Período | Status |
 |------------|-------|---------|--------|
-| **UNIP** | Análise e Desenvolvimento de Sistemas | 4º Semestre | 🟢 Em andamento |
+| **UNIP** | Análise e Desenvolvimento de Sistemas | 4º Semestre | 🟢 Concluido |
 
 ### 📖 Conhecimentos Adquiridos
 
@@ -144,9 +160,6 @@ Sou um **Desenvolvedor em formação**, atualmente cursando o 4º semestre de **
 <tr>
 <td align="center" width="100%">
   <p>
-    <a href="https://www.mysql.com/">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </a>
     <a href="https://www.postgresql.org/">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </a>
@@ -264,9 +277,7 @@ Sou um **Desenvolvedor em formação**, atualmente cursando o 4º semestre de **
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueDEV-code&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff" height="200" alt="Linguagens mais usadas"/>
   
-  ### 📌 Estreias do GitHub
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=HenriqueDEV-code&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="200" alt="Streak Stats"/>
+
   
 </div>
 
