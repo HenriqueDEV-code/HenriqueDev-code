@@ -1,8 +1,3 @@
-<!-- Banner animado -->
-<p align="center" id="topo">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
-</p>
-
 <!-- Capa -->
 <p align="center">
   <img
@@ -13,6 +8,15 @@
   />
 </p>
 <br>
+
+
+
+<!-- Banner animado -->
+<p align="center" id="topo">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+</p>
+
+
 
 <!-- Título animado profissional -->
 <p align="center">
