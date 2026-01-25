@@ -10,14 +10,6 @@
 <br>
 
 
-
-<!-- Banner animado -->
-<p align="center" id="topo">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
-</p>
-
-
-
 <!-- Título animado profissional -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3200&pause=700&color=3498DB&center=true&vCenter=true&width=820&height=65&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!+👨‍💻;Desenvolvedor+de+Software+com+experiência+em+sistemas+corporativos;Foco+em+Arquitetura%2C+Back-end%2C+APIs+e+Automação+de+Processos;Compromisso+com+boas+práticas%2C+segurança+e+alta+performance" alt="Título animado profissional do README" />
@@ -372,6 +364,7 @@ Busca iniciar atuação profissional como Desenvolvedor de Software ou Analista 
 
 <br>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<!-- Banner animado -->
+<p align="center" id="topo">
+  <img src="https://cdn.discordapp.com/attachments/732337957876269098/1079569842920759296/Tumblr_l_901286112995885.gif?ex=69776683&is=69761503&hm=260fc95f348723feb30604864586dc39ffd45d8b636750cf697d89fcb5b423d2"/>
 </p>
