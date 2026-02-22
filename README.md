@@ -254,15 +254,15 @@ Trabalha com organização em camadas, padronização de código e manutenção 
   
   ### 📊 Visão Geral do Perfil
   
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueDEV-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" height="200" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kernel-codes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" height="200" alt="Estatísticas do GitHub"/>
   
   ### 📈 Gráfico de Atividade
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueDEV-code&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kernel-codes&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
   
   ### 💻 Linguagens Mais Utilizadas
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueDEV-code&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff" height="200" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernel-codes&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff" height="200" alt="Linguagens mais usadas"/>
   
 
   
@@ -282,7 +282,7 @@ Trabalha com organização em camadas, padronização de código e manutenção 
 <td align="center" width="33%">
   <h4>📧 E-mail</h4>
   <p>
-    <a href="mailto:henriquebelotti09@gmail.com">
+    <a href="mailto:henrique.kernelcodes@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
