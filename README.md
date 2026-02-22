@@ -46,15 +46,11 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Profissional formado em Análise e Desenvolvimento de Sistemas, com base sólida em desenvolvimento de software, programação orientada a objetos e bancos de dados. Possui experiência consolidada em Suporte Técnico em ambientes corporativos, atuando no atendimento a usuários finais, PDVs e sistemas administrativos.
+Formado em Análise e Desenvolvimento de Sistemas, com atuação profissional em ambientes corporativos na área de Suporte Técnico e Sistemas. Experiência no atendimento a usuários finais, PDVs e sistemas administrativos, garantindo estabilidade operacional, cumprimento de processos e qualidade no suporte.
 
-Experiência prática com hardware, sistemas operacionais e aplicações internas, sempre seguindo processos operacionais, boas práticas e padrões corporativos de atendimento, garantindo estabilidade e continuidade das operações.
+Possui base técnica em desenvolvimento de software, com aplicação prática em projetos próprios envolvendo programação orientada a objetos, integração com bancos de dados, automação de rotinas e organização estruturada de código.
 
-Paralelamente à atuação em suporte, desenvolve projetos próprios de software, aplicando conceitos de lógica de programação, orientação a objetos, integração com bancos de dados, automação de rotinas, versionamento de código e documentação técnica. Essa combinação proporciona uma visão estruturada, prática e orientada à resolução de problemas no desenvolvimento de sistemas.
-
-A Kernel Code atua no desenvolvimento Fullstack com foco em sistemas corporativos, APIs e aplicações orientadas a banco de dados. Possui experiência com C#, C e C++, modelagem e manipulação de dados em SQL Server e MySQL, além de versionamento com Git/GitHub e uso de ferramentas profissionais para desenvolvimento e administração de bancos de dados.
-
-Trabalha com organização em camadas, padronização de código e manutenção estruturada de aplicações, visando estabilidade, escalabilidade e evolução contínua das soluções desenvolvidas.
+A Kernel Code atua no desenvolvimento Fullstack voltado a sistemas corporativos e aplicações orientadas a banco de dados. Trabalha com C#, C e C++, além de SQL Server e MySQL, aplicando boas práticas de versionamento, organização em camadas e padronização de código para criar soluções estáveis, escaláveis e de fácil manutenção.
 
 **Características:**
 - 🔍 Atenção à qualidade, organização e boas práticas de desenvolvimento.
@@ -251,23 +247,13 @@ Trabalha com organização em camadas, padronização de código e manutenção 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  
-  ### 📊 Visão Geral do Perfil
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=kernel-codes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&count_private=true" height="200" alt="Estatísticas do GitHub"/>
-  
+    
+
   ### 📈 Gráfico de Atividade
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kernel-codes&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
   
-  ### 💻 Linguagens Mais Utilizadas
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernel-codes&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff" height="200" alt="Linguagens mais usadas"/>
-  
-
-  
 </div>
-
 
 <br>
 
@@ -355,7 +341,3 @@ Trabalha com organização em camadas, padronização de código e manutenção 
 
 <br>
 
-<!-- Banner animado -->
-<p align="center" id="topo">
-  <img src="https://cdn.discordapp.com/attachments/732337957876269098/1079569842920759296/Tumblr_l_901286112995885.gif?ex=69776683&is=69761503&hm=260fc95f348723feb30604864586dc39ffd45d8b636750cf697d89fcb5b423d2"/>
-</p>
