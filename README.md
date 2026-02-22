@@ -299,6 +299,17 @@ A Kernel Code atua no desenvolvimento Fullstack voltado a sistemas corporativos 
   </p>
 </td>
 </tr>
+  <td align="center" width="33%">
+  <h4>💬 Instagram</h4>
+  <p>
+    <a href="https://instagram.com/kerner.codes" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Perfil-Profissional-blue?style=flat-square" alt="LinkedIn Profile"/>
+  </p>
+</td>
 </table>
 
 <br>
