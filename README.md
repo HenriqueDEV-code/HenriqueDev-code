@@ -279,7 +279,7 @@ A Kernel Code atua no desenvolvimento Fullstack voltado a sistemas corporativos 
 <td align="center" width="33%">
   <h4>💼 LinkedIn</h4>
   <p>
-    <a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-nascimento-belotti-927278358/" target="_blank">
+    <a href="https://www.linkedin.com/in/kernel-codes/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
