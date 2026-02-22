@@ -1,13 +1,4 @@
-<!-- Capa -->
-<p align="center">
-  <img
-    src="https://media.licdn.com/dms/image/v2/D4D16AQF5EcYVPf868Q/profile-displaybackgroundimage-shrink_350_1400/B4DZv1oXaZJMAY-/0/1769352559121?e=1770854400&v=beta&t=qw4kft0fOqGul_eA4XDituKMX4hRuxVFWETHkIGIM-8"
-    width="900"
-    style="border-radius: 14px; border: 1px solid rgba(0,0,0,0.10);"
-    alt="Capa - Less complexity. More solutions."
-  />
-</p>
-<br>
+
 
 
 <!-- Título animado profissional -->
@@ -55,26 +46,26 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Profissional formado em Análise e Desenvolvimento de Sistemas, com base técnica sólida em desenvolvimento de software, programação orientada a objetos e bancos de dados, aliada à experiência consolidada em Suporte Técnico em ambientes corporativos.
+Profissional formado em Análise e Desenvolvimento de Sistemas, com base sólida em desenvolvimento de software, programação orientada a objetos e bancos de dados. Possui experiência consolidada em Suporte Técnico em ambientes corporativos, atuando no atendimento a usuários finais, PDVs e sistemas administrativos.
 
-Atuação profissional voltada ao suporte de usuários finais, PDVs e sistemas administrativos, com experiência em hardware, sistemas operacionais e aplicações internas, sempre seguindo processos operacionais, boas práticas e padrões corporativos de atendimento.
+Experiência prática com hardware, sistemas operacionais e aplicações internas, sempre seguindo processos operacionais, boas práticas e padrões corporativos de atendimento, garantindo estabilidade e continuidade das operações.
 
-Paralelamente à atuação em suporte, desenvolve projetos próprios de software, nos quais aplica conceitos de lógica de programação, orientação a objetos, integração com bancos de dados, automação de rotinas, versionamento de código e documentação técnica, consolidando uma visão prática, estruturada e orientada à solução de problemas no desenvolvimento de sistemas.
+Paralelamente à atuação em suporte, desenvolve projetos próprios de software, aplicando conceitos de lógica de programação, orientação a objetos, integração com bancos de dados, automação de rotinas, versionamento de código e documentação técnica. Essa combinação proporciona uma visão estruturada, prática e orientada à resolução de problemas no desenvolvimento de sistemas.
 
-Busca iniciar atuação profissional como Desenvolvedor de Software ou Analista de Sistemas, integrando a base técnica em desenvolvimento com a vivência corporativa em suporte, forte capacidade analítica e compreensão de processos de negócio e operação.
+A Kernel Code atua no desenvolvimento Fullstack com foco em sistemas corporativos, APIs e aplicações orientadas a banco de dados. Possui experiência com C#, C e C++, modelagem e manipulação de dados em SQL Server e MySQL, além de versionamento com Git/GitHub e uso de ferramentas profissionais para desenvolvimento e administração de bancos de dados.
+
+Trabalha com organização em camadas, padronização de código e manutenção estruturada de aplicações, visando estabilidade, escalabilidade e evolução contínua das soluções desenvolvidas.
 
 **Características:**
 - 🔍 Atenção à qualidade, organização e boas práticas de desenvolvimento.
 - 🎯 Compromisso com evolução técnica contínua e soluções eficientes.
 - 🤝 Colaboração em projetos com foco em resultado e valor técnico.
-- 💼 Interesse em oportunidades profissionais nas áreas de desenvolvimento e sistemas.
 
 ### 🎯 Objetivos
 
 - Atuar profissionalmente no desenvolvimento e sustentação de sistemas.
 - Aplicar conhecimentos em backend, integração de sistemas e bancos de dados.
 - Contribuir para projetos com foco em qualidade, organização e manutenibilidade.
-- Consolidar carreira na área de tecnologia, unindo desenvolvimento e visão operacional.
 
 </td>
 </tr>
@@ -296,7 +287,7 @@ Busca iniciar atuação profissional como Desenvolvedor de Software ou Analista 
     </a>
   </p>
   <p>
-    <code>henriquebelotti09@gmail.com</code>
+    <code>henrique.kernelcodes@gmail.com</code>
   </p>
 </td>
 <td align="center" width="33%">
@@ -313,7 +304,7 @@ Busca iniciar atuação profissional como Desenvolvedor de Software ou Analista 
 <td align="center" width="33%">
   <h4>💬 WhatsApp</h4>
   <p>
-    <a href="https://wa.me/5516997446618" target="_blank">
+    <a href="https://wa.me/5516920041023" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
     </a>
   </p>
